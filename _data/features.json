@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Comprehensive Security Audits",
+    "description": "Conducting thorough assessments to identify vulnerabilities and ensure compliance with industry standards.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/noun_audit_1885335.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Risk Management Solutions",
+    "description": "Implementing robust frameworks to identify, address, and mitigate risks, ensuring organizational resilience.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/noun_risk_management_1885341.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Security Awareness and Training",
+    "description": "Offering tailored programs to educate and empower employees, fostering a security-conscious culture.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/noun_security_training_1885342.svg",
       "width": 80,
       "height": 80
     }
