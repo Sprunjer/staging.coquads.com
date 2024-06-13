@@ -33,9 +33,6 @@ Interested in our services? Our sales team is ready to help you find the right s
 For sales inquiries, please email:  
 **sales@coquads.com**
 
-**Sales Hotline:**
-To speak with a sales representative, please call:  
-**515-708-8896**
 
 ### Feedback
 

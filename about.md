@@ -75,8 +75,8 @@ Our team is composed of highly skilled and certified cybersecurity professionals
 We are here to help you secure your organization. Reach out to us for more information about our services or to schedule a consultation.
 
 **Email:** info@coquads.com  
-**Phone:** +1-800-123-4567  
-**Address:** 1234 Cybersecurity Lane, Tech City, TC 56789
+**Phone:** +1-515-708-8896  
+
 
 ---
 
