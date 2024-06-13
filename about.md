@@ -16,7 +16,7 @@ At CoQuads Incorporated, our mission is to provide cutting-edge cybersecurity so
 
 ### Our Story
 
-Founded in 2018, CoQuads Incorporated has rapidly become a prominent player in the cybersecurity industry. Our founders, a team of seasoned cybersecurity experts, recognized the growing need for comprehensive security solutions in an increasingly interconnected world. They set out to build a company that not only addresses current security challenges but also anticipates future threats.
+We, a team of seasoned cybersecurity experts, recognized the growing need for comprehensive security solutions in an increasingly interconnected world. We set out to build a company that not only addresses current security challenges but also anticipates future threats.
 
 ### Our Focus
 
