@@ -10,4 +10,4 @@ show_call_box: true
 
 # CoQuads Incorporated
 
-Expert Cybersecurity Consulting: Protecting Your Digital World with Precision and Care
+Expert Cybersecurity Consulting: Protecting Your Digital World with Precision and Care.
