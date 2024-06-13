@@ -1,12 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 100 100">
-	<!-- Background Circle -->
-	<circle cx="50" cy="50" r="50" fill="#f8f8f2" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+	<!-- Background -->
+	<rect width="100%" height="100%" fill="#f8f8f2"/>
 
-	<!-- Shield Icon -->
-	<path d="M50 5C28.39 5 11 20.5 11 37.75c0 19.48 20.91 44.45 37.52 55.18.49.3 1.06.3 1.55 0 16.61-10.73 37.52-35.7 37.52-55.18C89 20.5 71.61 5 50 5z" fill="#fff" stroke="#000" stroke-width="2" />
+	<!-- Neuromorphic Card -->
+	<g filter="url(#neumorphic)">
+		<rect x="50" y="50" width="900" height="200" rx="30" ry="30" fill="#f8f8f2"/>
+	</g>
 
-	<!-- Lock Icon -->
-	<rect x="35" y="40" width="30" height="30" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="2" />
-	<circle cx="50" cy="50" r="5" fill="#000" />
-	<rect x="47" y="30" width="6" height="10" fill="#fff" stroke="#000" stroke-width="2" />
+	<!-- Text -->
+	<text x="100" y="150" font-family="Arial, sans-serif" font-size="60" fill="#000">
+		CoQuads <tspan fill="#00aaff">Incorporated</tspan>
+	</text>
+
+	<!-- Filter Definition -->
+	<defs>
+		<filter id="neumorphic" x="-20%" y="-20%" width="150%" height="150%">
+			<feGaussianBlur in="SourceAlpha" stdDeviation="10" result="blur"/>
+			<feOffset in="blur" dx="8" dy="8" result="offsetBlur"/>
+			<feSpecularLighting in="blur" surfaceScale="5" specularConstant=".75" specularExponent="20" lighting-color="white" result="specOut">
+				<fePointLight x="-5000" y="-10000" z="20000"/>
+			</feSpecularLighting>
+			<feComposite in="specOut" in2="SourceAlpha" operator="in" result="specOut"/>
+			<feComposite in="SourceGraphic" in2="specOut" operator="arithmetic" k1="0" k2="1" k3="1" k4="0"/>
+			<feMerge>
+				<feMergeNode in="SourceGraphic"/>
+				<feMergeNode in="offsetBlur"/>
+			</feMerge>
+		</filter>
+	</defs>
 </svg>
