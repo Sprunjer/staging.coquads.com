@@ -1,7 +1,7 @@
-<svg width="300" height="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64">
-	<!-- Outer Circle -->
+<svg width="240" height="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64">
+	<!-- Text "C" -->
 	<circle cx="100" cy="250" r="50" fill="#D84315" stroke="black" stroke-width="10"/>
-	<!-- Inner Circle -->
+	<!-- Text "O" -->
 	<circle cx="120" cy="250" r="20" fill="#D84315" stroke="black" stroke-width="5"/>
 	<!-- Text "QUADS" -->
 	<text x="160" y="275" font-family="Arial, sans-serif" font-size="100" fill="black" font-weight="bold">QUADS</text>
