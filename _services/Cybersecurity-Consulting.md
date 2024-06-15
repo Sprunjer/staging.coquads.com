@@ -6,7 +6,7 @@ weight: 1
 
 ## Cybersecurity Consulting
 
-At CoQuads Incorporated, our Cybersecurity Consulting services offer expert guidance to help organizations navigate the complex landscape of cybersecurity. Our consultants work closely with clients to identify vulnerabilities, develop robust security policies, and implement best practices to protect critical assets.
+At CoQuads, our Cybersecurity Consulting services offer expert guidance to help organizations navigate the complex landscape of cybersecurity. Our consultants work closely with clients to identify vulnerabilities, develop robust security policies, and implement best practices to protect critical assets.
 
 ### Key Services:
 - **Security Assessments and Audits:** Comprehensive evaluations of an organization's security posture, identifying vulnerabilities and recommending improvements.
