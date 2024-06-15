@@ -5,7 +5,7 @@ title: 'CoQuads Incorporated'
 logo:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "64px"
-  mobile_width: "64px"
+  mobile_width: "150px"
   desktop: "images/logo/logo.svg"
   desktop_height: "64px"
   desktop_width: "240px"
