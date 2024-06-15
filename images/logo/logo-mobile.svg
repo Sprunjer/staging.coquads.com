@@ -1,4 +1,4 @@
-<svg width="240" height="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64">
+<svg width="300" height="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64">
 	<!-- Outer Circle -->
 	<circle cx="100" cy="250" r="50" fill="#D84315" stroke="black" stroke-width="10"/>
 	<!-- Inner Circle -->
