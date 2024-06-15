@@ -1,14 +1,14 @@
 baseurl: '/'
 permalink: pretty
-title: 'CoQuads Incorporated'
+title: 'J'
 
 logo:
-  mobile: "images/logo/logo-png.png"
-  mobile_height: "64px"
-  mobile_width: "64px"
-  desktop: "images/logo/logo-png.png"
-  desktop_height: "64px"
-  desktop_width: "240px"
+  mobile: "images/logo/logo-mobile.svg"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "32px"
+  desktop_width: "120px"
 
 home: 
   limit_services: 6
