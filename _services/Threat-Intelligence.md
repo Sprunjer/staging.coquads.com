@@ -3,7 +3,6 @@ title: "Threat Intelligence"
 date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
-### Threat Intelligence Service
 
 In the ever-evolving landscape of cybersecurity, staying ahead of potential threats is crucial. CoQuads' Threat Intelligence Service provides you with the insights and analysis needed to anticipate and counteract cyber threats before they can impact your organization. Our service delivers actionable intelligence to help you make informed decisions and enhance your security posture.
 
