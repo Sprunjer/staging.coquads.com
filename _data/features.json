@@ -1,27 +1,27 @@
 [
   {
-    "title": "Comprehensive Security Audits",
-    "description": "Conducting thorough assessments to identify vulnerabilities and ensure compliance with industry standards.",
+    "title": "Client-Centric Innovation",
+    "description": "Innovating with our clients' unique needs at the forefront to drive their success.",
     "image": {
-      "url": "images/features/noun_audit_1885335.svg",
+      "url": "images/features/1.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Risk Management Solutions",
-    "description": "Implementing robust frameworks to identify, address, and mitigate risks, ensuring organizational resilience.",
+    "title": "Integrity and Transparency",
+    "description": "Building trust through honest and open communication at every project stage.",
     "image": {
-      "url": "images/features/noun_risk_management_1885341.svg",
+      "url": "images/features/2.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Security Awareness and Training",
-    "description": "Offering tailored programs to educate and empower employees, fostering a security-conscious culture.",
+    "title": "Exceptional Quality and Excellence",
+    "description": "Delivering superior results with a relentless commitment to quality and continuous improvement.",
     "image": {
-      "url": "images/features/noun_security_training_1885342.svg",
+      "url": "images/features/3.svg",
       "width": 80,
       "height": 80
     }
