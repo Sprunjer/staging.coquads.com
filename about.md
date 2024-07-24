@@ -24,6 +24,6 @@ We prioritize your security and satisfaction through personalized service, proac
 
 Ready to secure your organization? Contact Coquads Incorporated today to learn more or schedule a consultation.
 
-Email: info@coquads.com Phone: +1-515-708-8896
+Email: info@coquads.com
 
 Coquads Incorporated: Your partner in building a safer digital world.
