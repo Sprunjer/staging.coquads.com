@@ -7,7 +7,7 @@ Have a question or want to discuss your cybersecurity needs? We're here to help.
 
 **Get in Touch:**
 
-Email: info@coquads.com Phone: 515-708-8896
+Email: info@coquads.com
 
 **Support:**
 
